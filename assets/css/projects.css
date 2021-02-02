@@ -1,0 +1,25 @@
+/* *** PROJECTS *** */
+
+.projects-wrapper {
+  display: grid;
+  gap: 1rem;
+}
+
+#projects h2 {
+  margin-bottom: 5rem;
+  text-align: center;
+}
+
+#projects h3 {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.project-one,
+.project-two {
+  margin-bottom: 5rem;
+}
+
+.project-link {
+  justify-self: start;
+}

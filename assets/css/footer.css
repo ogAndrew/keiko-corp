@@ -1,0 +1,13 @@
+/* *** FOOTER *** */
+.footer-wrapper {
+  display: grid;
+  justify-items: center;
+  gap: var(--gap);
+  font-size: clamp(var(--lgText), 2vw, var(--xlText));
+  text-align: center;
+}
+
+.socials {
+  display: flex;
+  gap: 2.5rem;
+}
